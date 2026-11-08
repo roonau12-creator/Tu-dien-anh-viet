@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088243436781",
+    "project_id": "shopatoz-33303",
+    "storage_bucket": "shopatoz-33303.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088243436781:android:2269c093fed091670e50e4",
+        "android_client_info": {
+          "package_name": "com.example.tudienanhviet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdW4jS3omdNAK2hwplAcHaZNfe8GwJT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
